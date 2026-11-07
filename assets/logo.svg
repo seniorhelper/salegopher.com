@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212 40" width="212" height="40" role="img" aria-label="SaleGopher">
+  <g transform="translate(0,0) scale(0.3333)">
+    <path d="M60 30c-22 0-36 16-36 38v22h72V68c0-22-14-38-36-38z" fill="#111827"/>
+    <circle cx="34" cy="36" r="10" fill="#111827"/>
+    <circle cx="86" cy="36" r="10" fill="#111827"/>
+    <circle cx="47" cy="60" r="6" fill="#A3E635"/>
+    <circle cx="73" cy="60" r="6" fill="#A3E635"/>
+    <rect x="52" y="72" width="16" height="10" rx="3" fill="#FFFFFF"/>
+    <path d="M60 12a14 14 0 0 1 14 14" fill="none" stroke="#65A30D" stroke-width="6" stroke-linecap="round" transform="rotate(-45 60 26)"/>
+    <path d="M60 2a24 24 0 0 1 24 24" fill="none" stroke="#65A30D" stroke-width="6" stroke-linecap="round" opacity=".55" transform="rotate(-45 60 26)"/>
+    <rect x="18" y="94" width="84" height="8" rx="4" fill="#A3E635"/>
+  </g>
+  <text x="46" y="28" font-family="'Unbounded','Bricolage Grotesque','Inter','Segoe UI',Arial,sans-serif" font-size="22" font-weight="800" fill="#111827" textLength="162" lengthAdjust="spacingAndGlyphs">sale<tspan fill="#4D7C0F">gopher</tspan></text>
+</svg>

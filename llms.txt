@@ -1,0 +1,30 @@
+# SaleGopher
+
+> SaleGopher builds ranking local websites on exact-match keyword domains and rents each one exclusively to one local business per trade and city. Every call and form lead goes to that business only. Headquartered in Denver, Colorado, growing local businesses anywhere. Phone 1-800-481-8638.
+
+## Key facts
+- Offer: rental of an exact-match local domain plus a complete website built for search, conversion and AI assistants, with a monthly lead report.
+- Portfolio: hundreds of keyword domains, with sites built on them first in the Denver metro.
+- Exclusivity: one renter per trade and city.
+- Terms: 12-month agreement, $0 setup. Paying the year up front gets 2 months free.
+- Ownership: subscribe-to-own; renters may be able to buy their site later. Ask about buying your site.
+- No one can guarantee rankings; renters see a monthly report of calls and forms.
+- Real estate: flat monthly advertising only, brokerage name shown, no referral or closing fees.
+- Domain owners: a waitlist is open for owners of idle local domains to share monthly rent.
+- First pilot sites available now: bestcpacolorado.com (Colorado CPA and accounting) and bestdenveraccountant.com (Denver accounting).
+- Address: 1001 Bannock St #660, Denver, CO 80204.
+
+## Plans
+- Spark: $297/month. Lower-ticket trades. Includes: Exclusive ranked site for your trade and city; Your name and phone on every page; Call and form leads go only to you; Hosting, security and updates; Monthly lead report.
+- Pro: $497/month. Standard trades like fencing, decks, moving and landscaping. Includes: Everything in Spark; More service and city pages; Fresh content every month; Google Business Profile tune-up; AI-agent-ready booking link.
+- Prime: from $997/month. High-ticket work like roofing, remodeling, accounting and other professional services. Includes: Everything in Pro; Weekly AI-agent work; Priority pages; Quarterly strategy call.
+
+## Pages
+- [Home](https://www.salegopher.com/): overview, old way vs. new way, plans, open sites
+- [Rent a website](https://www.salegopher.com/rent-a-website/): what is included, plans, terms, subscribe-to-own
+- [Open sites](https://www.salegopher.com/available-websites/): pilot sites and domains open for a renter
+- [ROI calculator](https://www.salegopher.com/roi-calculator/): does a rented site pay for itself, and break-even leads
+- [AI-ready](https://www.salegopher.com/agent-ready/): how sites are set up for AI assistants and agent booking
+- [Domain owners](https://www.salegopher.com/domain-owners/): waitlist for owners of idle local domains
+- [FAQ](https://www.salegopher.com/faq/)
+- [Contact](https://www.salegopher.com/contact/)
